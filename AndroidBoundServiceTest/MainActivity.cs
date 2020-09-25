@@ -6,6 +6,7 @@ using Android.Widget;
 
 namespace AndroidBoundServiceTest
 {
+    //BASED ON: https://github.com/xamarin/mobile-samples/tree/master/BackgroundLocationDemo/location.Android
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
