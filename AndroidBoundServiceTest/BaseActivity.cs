@@ -6,7 +6,7 @@ using AndroidBoundServiceTest.Services;
 
 namespace AndroidBoundServiceTest
 {
-    https://forums.xamarin.com/discussion/10088/implementing-both-activity-service-and-service-activity-communication
+    //https://forums.xamarin.com/discussion/10088/implementing-both-activity-service-and-service-activity-communication
     public class BaseActivity : AppCompatActivity
     {
         public GpsServiceConnection ServiceConnection;
